@@ -1,1 +1,5 @@
-Heyo, I'm Peyo. 
+## Heyo, I'm Peyo! 👋
+
+### I primarily code in JavaScript, HTML, and CSS.💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)

@@ -1,6 +1,6 @@
 ![Image](https://github.com/Peyoway/Peyoway/blob/main/79731568097599.5b50bca477735.jpg)
-## Heyo, I'm Peyo! 👋
+## heyo, i'm peyo! 👋
 
-### I primarily code in JavaScript, HTML, and CSS.💻
+### Proficient in Godot, Python, and Lua💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peyoway&theme=algolia&show_icons=true)
